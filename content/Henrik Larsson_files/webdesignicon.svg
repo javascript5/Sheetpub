@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="312.4px" height="168.2px" viewBox="0 0 312.4 168.2" style="enable-background:new 0 0 312.4 168.2;" xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{fill:none;stroke:#295684;stroke-width:1.5;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M156.3,167.5c0,0,147.7,0,151.4,0c3.7,0,4.1-3.5,4.1-3.5v-9.8H156.2H0.8v9.8c0,0,0.4,3.5,4.1,3.5
+	C8.6,167.5,156.3,167.5,156.3,167.5z"/>
+<path class="st0" d="M178.1,154.1v2.2c0,0,0.2,3.1-2.4,3.1c-2.6,0-19.5,0-19.5,0s-16.8,0-19.5,0c-2.6,0-2.4-3.1-2.4-3.1v-2.2H178.1z
+	"/>
+<path class="st0" d="M276,153.7V7.8c0-3.9-3.2-7-7-7H156.3H43.6c-3.9,0-7,3.2-7,7v145.9"/>
+<circle class="st0" cx="43.5" cy="6.6" r="2.8"/>
+<circle class="st0" cx="52.5" cy="6.6" r="2.8"/>
+<circle class="st0" cx="61.4" cy="6.6" r="2.8"/>
+<line class="st0" x1="36.6" y1="12.6" x2="276" y2="12.6"/>
+<path class="st0" d="M262.4,154.1V72.4c0-4.9-4-8.9-8.9-8.9h-53.2c-4.9,0-8.9,4-8.9,8.9v81.7"/>
+<circle class="st0" cx="227" cy="73.8" r="1.9"/>
+<rect x="214.2" y="78.9" class="st0" width="25.5" height="2.3"/>
+<polyline class="st0" points="195.4,154.1 195.4,87.2 258.5,87.2 258.5,154.1 "/>
+<polyline class="st0" points="219.1,130.5 212.3,123.7 219.1,116.9 "/>
+<polyline class="st0" points="234.8,116.9 241.7,123.7 234.8,130.5 "/>
+<line class="st0" x1="222.2" y1="134.9" x2="231.7" y2="112.2"/>
+<g>
+	<path class="st0" d="M121.2,64.3c11.8,3.6,19.1,14.6,19.1,27.6c0,15.8-12.8,28.7-28.7,28.7s-28.7-12.8-28.7-28.7
+		c0-12.9,7.4-24,19.1-27.6"/>
+	<path class="st0" d="M87.9,103.4"/>
+	<path class="st0" d="M98,111.6c-5.3-3.7-9.1-9.5-10.1-16.3"/>
+	<path class="st0" d="M106.8,115.4c-2.3-0.5-4.5-1.3-6.5-2.3"/>
+	<path class="st0" d="M106.8,115.4"/>
+	<path class="st0" d="M102,55.9c0-2.6,2.1-4.8,4.8-4.8h9.6c2.6,0,4.8,2.1,4.8,4.8v8.3h-9.6H102V55.9z"/>
+	<path class="st0" d="M107.5,51.1c0-2.3,1.9-4.1,4.1-4.1c2.3,0,4.1,1.9,4.1,4.1"/>
+	<g>
+		<line class="st0" x1="116.5" y1="64.3" x2="122.5" y2="92.7"/>
+		<line class="st0" x1="106.8" y1="64.3" x2="100.8" y2="92.7"/>
+	</g>
+	<path class="st0" d="M101.4,88.1c0,0,5.3-1.5,10.2-1.5s10.2,1.5,10.2,1.5"/>
+	<line class="st0" x1="111.6" y1="12.2" x2="111.6" y2="47"/>
+</g>
+</svg>
